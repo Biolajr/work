@@ -4,13 +4,7 @@
      background-color: blanchedalmond;
  }
 
- .hero{
-     height: 600px;
-     background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../images/abstract.jpg');
-     background-position: center;
-     background-size: cover;
-     background-repeat: no-repeat;
- }
+
 
  .text{
      display: flex;
@@ -26,17 +20,16 @@
       margin-top: 100px;
  }
 
- button {
-      width: 10% 
- }
+ 
 
   .hero{
-     height: 600px;
+     height: 600;
      background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../images/abstract.jpg');
      background-position: center;
      background-size: cover;
      background-repeat: no-repeat;
      position: relative;
+    
 
  } 
 

@@ -26,15 +26,16 @@
  
   /* HERO BANNER STYLES */
   .jay_hero{
-      height: 600px;
-      background-image: linear-gradient(rgba(0,0,0,0.5),  rgba(0,0,0, 0.5)), url("../images/abstract.jpg");
+      height: 100vh;
+      background-image: linear-gradient(rgba(0,0,0,0.5),  rgba(0,0,0, 0.5)), url("../images/2020_-_craven_-_david_0.jpeg");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
- 
+      background-size: 100% 100%;
       position: relative;
  
   }
+
  
   .jay_text{
       text-align: center;
