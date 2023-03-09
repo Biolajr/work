@@ -17,11 +17,13 @@
       padding: 14px 16px;
       text-decoration: none;
       font-size: 17px;
+      transition: color 0.2s ease;
   }
  
   .topnav a:hover{
-      background-color: #ddd;
+      /* background-color: #ddd; */
       color: #000000;
+    
   }
  
   /* HERO BANNER STYLES */
